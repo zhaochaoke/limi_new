@@ -1,0 +1,15 @@
+{
+    "auth":"zhaochaoke",
+    "name": "limi_ketang/online_dev",
+    "description": "limi_ketang v2.0",
+    "keywords": ["v2.0", "online"],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "mongodb/mongodb": "^1.4"
+    },
+    "config": {
+        "process-timeout": 1800
+    }
+}
+
